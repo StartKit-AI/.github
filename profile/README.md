@@ -2,7 +2,7 @@
 
 # StartKit.AI
 
-Build your next AI startup 100x faster with our boilerplate code!
+Build your next AI startup 100x faster with our boilerplate code! Visit the homepage [here](https://startkit.ai).
 
 ### Pre-built modules forall common AI tasks:
 
