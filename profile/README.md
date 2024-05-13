@@ -55,14 +55,9 @@ We took what we learned building with AI, added the best-practices that we've de
 - 🚀 We've launched 9 products in the last 9 years, most of which ranked in the top #3 for the day, week, and month.
 - ⛵️ Our profits from our bootstrapped products enabled us to buy a sailboat and keep on shipping from the ocean!
 
-### The fastest way to get your AI project up and running
+### Your next AI startup is waiting to be built!
 
-Hit the ground running with:
-- User authentication
-- Rate-limits
-- All OpenAI APIs implemented out of the box
-
-[Buy StartKit.AI](https://startkit.ai/order)
+**[Buy StartKit.AI](https://startkit.ai/order)**
 
 
 ## Resources
