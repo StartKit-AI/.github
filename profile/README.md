@@ -16,7 +16,7 @@ We've done the hard work so you can focus on building your product.
 - **Translation** (Whisper, GPT-4-Turbo, GPT-4)
 - **Moderation** (Text-Moderation, GPT-4-Turbo, GPT-4)
 
-### Plus everything else you need toget your first paying users
+### Plus everything else you need to get your first paying users
 
 StartKit.AI has everything you need to build and run your next AI SaaS.
 
