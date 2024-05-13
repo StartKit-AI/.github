@@ -16,6 +16,16 @@ We've done the hard work so you can focus on building your product.
 - **Translation** (Whisper, GPT-4-Turbo, GPT-4)
 - **Moderation** (Text-Moderation, GPT-4-Turbo, GPT-4)
 
+### Plus everything else you need toget your first paying users
+
+StartKit.AI has everything you need to build and run your next AI SaaS.
+
+- Start charging for your product with Stripe
+- Secure authentication with license keys & usage limits
+- Email your customers with Resend
+- Detailed tutorials to start coding fast in our docs
+
+
 ### Includes six demo applications as a starting point for your app
 
 Our simple demo apps give you an idea of what you can create:
@@ -34,6 +44,16 @@ Our Admin Dashboard lets you:
 - Track API usage
 - Edit prompts
 - Handle your vector embeddings
+
+### Hey, we're James and Danielle, a couple of serial makers
+
+We've been building profitable SaaS products whilst traveling the world for over 10 years!
+
+We took what we learned building with AI, added the best-practices that we've developed over a decade of writing software, and made it into a boilerplate that anyone can use to get started.
+
+- 💬 36,000+ people follow us (James/Danielle) building and shipping on Twitter/X.
+- 🚀 We've launched 9 products in the last 9 years, most of which ranked in the top #3 for the day, week, and month.
+- ⛵️ Our profits from our bootstrapped products enabled us to buy a sailboat and keep on shipping from the ocean!
 
 ### The fastest way to get your AI project up and running
 
